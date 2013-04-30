@@ -6,6 +6,9 @@
  * http://www.apache.org/licenses/LICENSE-2.0
  * ============================================================ */
 
+var jQuery = require('jquery');
+var $ = jQuery;
+
 !function ($) {
   "use strict";
 

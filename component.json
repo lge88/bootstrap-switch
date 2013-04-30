@@ -1,0 +1,14 @@
+{
+  "name": "bootstrap-switch",
+  "repo": "lge88/bootstrap-switch.git",
+  "upstream": "git://github.com/nostalgiaz/bootstrap-switch.git",
+  "dependencies": {
+    "lge88/jquery": "*",
+    "lge88/bootstrap": "*"
+  },
+  "scripts": [
+    "static/js/bootstrapSwitch.js"
+  ],
+  "styles": ["static/stylesheets/bootstrapSwitch.css"],
+  "main": "static/js/bootstrapSwitch.js"
+}
